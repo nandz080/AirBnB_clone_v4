@@ -1,5 +1,10 @@
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+This last phase of the project focuses on developing an Airbnb clone using Flask and Flasgger. The project should include the following features:
+
+* A user interface that allows users to search for Airbnb listings by city.
+* A REST API that exposes endpoints to search for and book Airbnb listings.
+* Documentation for the REST API generated using Flasgger.
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -12,6 +17,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Environment](#environment)
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
+* [Features](#features) 
 * [Usage](#usage)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
@@ -126,7 +132,12 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
-
+## Features
+* Search for Airbnb listings by city
+* Book Airbnb listings
+* User interface that is responsive and works on all devices
+* Well-designed and secure REST API
+* Comprehensive and easy-to-use documentation for the REST API
 ## Examples of use
 ```
 vagrantAirBnB_clone$./console.py
@@ -158,7 +169,8 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-
+Nandi Mbatha
+Tariro Dume
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
