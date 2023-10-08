@@ -1,6 +1,6 @@
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
-This last phase of the project focuses on developing an Airbnb clone using Flask and Flasgger. The project should include the following features:
+This last phase of the project focuses on developing an Airbnb clone using Flask and Flasgger. The project includes the following features:
 
 * A user interface that allows users to search for Airbnb listings by city.
 * A REST API that exposes endpoints to search for and book Airbnb listings.
